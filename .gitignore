@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment folders
+venv/
+env/
+.venv/
+.env/
+
+# Python egg / distribution files
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# PyTorch / TensorFlow checkpoints or model weights
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Logs and temporary files
+*.log
+*.tmp
+*.out
+*.cache
+
+# VS Code / IDE folders
+.vscode/
+.idea/
+
+# Colab local files
+*.ipynb_backup
